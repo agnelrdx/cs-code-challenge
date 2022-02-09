@@ -1,0 +1,22 @@
+{
+  "name": "cs-code-challenge",
+  "version": "1.0.0",
+  "description": "cs-code-challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbercrombieAndFitch/cs-code-challenge.git"
+  },
+  "author": "Agnel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbercrombieAndFitch/cs-code-challenge/issues"
+  },
+  "homepage": "https://github.com/AbercrombieAndFitch/cs-code-challenge#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}

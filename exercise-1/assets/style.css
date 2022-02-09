@@ -1,0 +1,24 @@
+h1 {
+  margin: 40px 0;
+}
+
+.card {
+  margin: 15px 0;
+}
+
+.card-text {
+  word-break: break-all;
+  margin: 0 0 5px;
+}
+
+.btn {
+  margin-top: 10px;
+}
+
+.details {
+  display: none;
+}
+
+#loader {
+  width: 80px;
+}
