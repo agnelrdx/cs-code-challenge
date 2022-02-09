@@ -1,3 +1,5 @@
+** Please note, for exercise 1 - The images are not getting loaded from its CDN
+
 # Abercrombie Client-Side Developer Skill Assessment
 1. Clone this repository.
 2. Complete exercises below by creating/modifying code in their respective folders. You can architect the project how you like re: folder structure, how you name your files, etc. Use your best judgement as a developer.
