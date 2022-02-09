@@ -1,4 +1,4 @@
-** Please note, for exercise 1 - The images are not loaded from its CDN
+** Please note, for exercise 1 - The images are not getting loaded from its CDN
 
 # Abercrombie Client-Side Developer Skill Assessment
 1. Clone this repository.
